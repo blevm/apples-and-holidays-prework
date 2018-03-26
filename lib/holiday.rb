@@ -73,7 +73,7 @@ def all_holidays_with_bbq(holiday_hash)
   all_holidays = []
 
   holiday_hash.each do |item, value|
-    all holidays << item
+    all_holidays << item
   end
 
   all_holidays << "BBQ"
